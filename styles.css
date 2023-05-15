@@ -1,0 +1,48 @@
+#myHeader {
+  background-color: #988829;
+  color: black;
+  padding: 40px;
+  text-align: center;
+  }
+
+body { background-image:url(file:///C:/Users/Ruth%20Beriso/Documents/1.20823%20IT%20Concepts/ITC%20WEBSITE/background%202.png) ;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  text-align: center;
+}
+h1 { color: black;
+    font-size: 90px;100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+ }
+ h2{ color: #AE8875;
+    font-size: xx-large;
+ }
+p { color:#AE8875;
+    font-size:x-large;
+}
+table, th, td {
+border:  2px solid black;
+border-collapse: collapse;
+font-size: large;
+}
+th, td {
+background-color: #282e3c;
+color:  wheat;
+}
+
+.Dept {
+background-color: #505c7c;
+color: white;
+border: 1px solid black;
+margin: 20px;
+padding: 15px;
+width: 100%;
+}
+
+footer {
+  background-color: #242424;
+  color: black;
+  padding: 40px;
+  text-align: center
